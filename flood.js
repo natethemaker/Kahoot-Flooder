@@ -226,8 +226,8 @@ function join(name, idee) {
 
         }
       } else {
-        console.log(name + " answered with 'kahootflood.weebly.com'")
-        setTimeout(() => { client.answer("kahootflood.weebly.com") }, getRandomInt(1, 20000));
+        console.log(name + " answered with 'replit.com/@natethemaker'")
+        setTimeout(() => { client.answer("replit.com/@natethemaker") }, getRandomInt(1, 20000));
       }
     }
 
